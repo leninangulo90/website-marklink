@@ -1,75 +1,59 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "Blog",
+      "name": "Portafolio",
       "url": "/blog"
     },
     {
-      "name": "Pricing",
+      "name": "Paquetes",
       "url": "/pricing"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "FAQ",
+      "name": "Preguntas Frecuentes",
       "url": "/faq"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Nuestros Servicios",
+      "url": "/contact"
     }
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "¿Quiénes Somos?",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Product",
-      "menu": [
-        {
-          "text": "Features",
+          "text": "Contactanos",
           "url": "#"
         },
         {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
-        }
-      ]
-    },
-    {
-      "name": "Support",
-      "menu": [
-        {
-          "text": "FAQ",
-          "url": "/faq"
-        },
-        {
-          "text": "Privacy Policy",
+          "text": "Política de Privacidad",
           "url": "/privacy-policy"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "Términos y Condiciones",
           "url": "/terms-conditions"
+        }
+      ]
+    },
+    {
+      "name": "Producto y Servicios",
+      "menu": [
+        {
+          "text": "Paquetes",
+          "url": "/pricing"
+        }
+      ]
+    },
+    {
+      "name": "Soporte",
+      "menu": [
+        {
+          "text": "Preguntas Frecuentes",
+          "url": "/faq"
         }
       ]
     }

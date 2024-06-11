@@ -1,54 +1,43 @@
 ---
-title: Pricing
+title: Periodo de Tiempo
 description: "meta description"
 draft: false
 plans:
-- title: Basic Plan
-  subtitle: Best For Small Individuals
-  price: 49
+- title: Corto Plazo (1-3 Meses)
+  subtitle: Campañas promocionales específicas, como promociones de temporada o eventos.
+  price: 0
   type: month
   features:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
   button:
-    label: Get started for free
+    label: Más Informacion
     link: "/contact"
 
-- title: Professional Plan
-  subtitle: Best For Professionals
-  price: 69
+- title: Mediano plazo (3-6 meses)
+  subtitle: Optimización continua de la presencia en línea, incluyendo SEO y gestión de redes sociales.
+  price: 0
   type: month
   recommended: true
   features:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
-    - Cloud Service
-    - Best Dashboard
   button:
-    label: Get started
+    label: Más Informacion
     link: "/contact"
 
-- title: Business Plan
-  subtitle: Best For Large Individuals
-  price: 99
+- title: Largo plazo (6 meses o más)
+  subtitle: Desarrollo y ejecución de una estrategia integral de marketing digital.
+  price: 0
   type: month
   features:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
   button:
-    label: Get started
+    label: Más Informacion
     link: "/contact"
 
 call_to_action:
-  title: Need a larger plan?
+  title: ¿Necesitas un plan más grande?
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
   image: '/images/cta.png'
   button:
     enable: true
-    label: "Contact Us"
+    label: "Contactanos"
     link: "/contact"
     
 ---
